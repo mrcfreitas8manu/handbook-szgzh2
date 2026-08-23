@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mrcfreitas8manu.github.io/handbook-szgzh2/sitemap.xml
